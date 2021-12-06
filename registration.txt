@@ -1,3 +1,5 @@
 Hi,
 I am Registration file.
 Thanks.
+
+some Working with logical part.
