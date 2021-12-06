@@ -3,3 +3,5 @@ I am Registration file.
 Thanks.
 
 some Working with logical part.
+
+some design patern change.
